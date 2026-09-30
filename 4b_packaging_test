@@ -1,0 +1,9 @@
+user@skillsnetwork:~/project$ python3
+Python 3.11.4 (main, Jun  7 2023, 10:13:09) [GCC 10.2.1 20210130] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import EmotionDetection
+>>> from EmotionDetection.emotion_detection import emotion_detector
+>>> print(EmotionDetection.__file__)
+/home/project/EmotionDetection/__init__.py
+>>> exit()
+user@skillsnetwork:~/project$ 
